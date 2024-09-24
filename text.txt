@@ -1,0 +1,28 @@
+data structure
+
+specific way of organizing , storing and accessing the data
+
+alogorithm
+
+step by step solution of a problem called algorithm
+
+
+
+problem 1-
+
+
+BigO
+how long algo take to run and how much memory
+
+O(n)
+time grow linear with input data (n)increases
+
+
+O(1)
+constant time
+execution time remains same
+
+
+
+
+
