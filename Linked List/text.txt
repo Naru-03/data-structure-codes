@@ -1,0 +1,6 @@
+Linked List
+
+linear data structure
+elements - nodes
+not stored in contiguous memory
+instead each node contain data and ref or link to next node in the list
