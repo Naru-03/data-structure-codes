@@ -1,0 +1,3 @@
+linear data structure that functions like waiting time.
+
+FIFO rule priciple
