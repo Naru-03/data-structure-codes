@@ -1,0 +1,3 @@
+linear data structure
+follow LIFO - Last in first out
+
