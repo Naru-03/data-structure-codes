@@ -1,0 +1,11 @@
+data structure used to store key - value pairs
+Objects
+
+
+hash function
+    taking an input of any size(key)
+    and converting it into a fixed size value(hash code)
+
+
+input-> hash function(CONVERT DATA INTO ARRAY AND BEFORE THAT IT WILL GIVE INDEX WHENERE DATA ARAAY IS GOING TO BE STORE)
+
