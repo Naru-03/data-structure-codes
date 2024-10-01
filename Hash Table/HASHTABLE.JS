@@ -48,7 +48,7 @@ class HashTable {
     getAllKeys() {
         let keys = []
 
-        for (let i = 0; i < this.keyMap.length;) {
+        for (let i = 0; i < this.keyMap.length; i++) {
             if (this.keyMap[i]) {
                 for (let j = 0; j < this.keyMap[i].length; j++) {
                     keys.push(this.keyMap[i][j][0])
@@ -62,7 +62,7 @@ class HashTable {
     getAllValues() {
         let values = []
 
-        for (let i = 0; i < this.keyMap.length;) {
+        for (let i = 0; i < this.keyMap.length; i++) {
             if (this.keyMap[i]) {
                 for (let j = 0; j < this.keyMap[i].length; j++) {
                     values.push(this.keyMap[i][j][1])
