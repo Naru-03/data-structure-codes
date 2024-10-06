@@ -1,0 +1,17 @@
+hierarchical data structure.
+
+nodes (data) and  connected by edges (links) forming tree like structure
+
+
+Full tree
+node with no children  or exactly two children
+
+
+
+Full + Balance (Perfect Tree)
+
+All leaf nodes are at same depth.
+means tree is completely filled with no gaps
+
+Complete Tree
+All levels expect possibly the last one are completely filled with nodes.
