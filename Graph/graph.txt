@@ -1,0 +1,9 @@
+graph is non linear data structure that models relations between objects.
+
+Nodes(Vertices)
+: individual entity within the graph
+
+
+ and Edges
+ connect vertices , and signify relationship between them.
+
